@@ -23,9 +23,3 @@ body {
     height: auto; 
 }
 
-.image_container img {
-    width: 50%;
-    max-width: 250px;
-    border-radius: 7px;
-    margin-top: 10px;
-}
